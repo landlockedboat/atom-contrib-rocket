@@ -1,0 +1,22 @@
+{
+  "name": "atom-contrib-rocket",
+  "main": "./lib/contrib-rocket",
+  "version": "0.0.0",
+  "description": "Displays contrib-rocket in your status bar",
+  "keywords": [],
+  "repository": "https://github.com/atom/atom-contrib-rocket",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "contrib-rocket": "^1.0.0"
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  }
+}

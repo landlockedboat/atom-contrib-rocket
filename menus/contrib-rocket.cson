@@ -1,0 +1,14 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Contrib Rocket'
+      'submenu': [
+        {
+          'label': 'Toggle contrib rocket in status bar'
+          'command': 'atom-contrib-rocket:toggle'
+        }
+      ]
+    ]
+  }
+]
