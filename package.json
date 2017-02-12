@@ -1,7 +1,7 @@
 {
   "name": "atom-contrib-rocket",
   "main": "./lib/contrib-rocket",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Displays contrib-rocket in your status bar",
   "keywords": [],
   "repository": "https://github.com/wextia/atom-contrib-rocket",
