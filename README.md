@@ -1,4 +1,6 @@
-# contrib-rocket package
+# Atom Contrib Rocket Package
+
+[![Build Status](https://travis-ci.org/wextia/atom-contrib-rocket.svg?branch=master)](https://travis-ci.org/wextia/atom-contrib-rocket)
 
 View in [atom.io](https://atom.io/packages/atom-contrib-rocket).
 
